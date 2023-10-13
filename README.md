@@ -8,4 +8,4 @@ List of websites personally used to test DNS leaks.
 - [BrowserLeaks IP Test](https://browserleaks.com/ip)
 - [IPX.AC DNS Leak Test](https://ipx.ac/run)
 
-All of the above should provide identical results. If even one website displays different outcome, it indicates a potential DNS leak that needs immediate attention.
+All of the above should provide identical `DNS leak test` results. If even one website displays different outcome, it indicates a potential DNS leak that needs immediate attention.
